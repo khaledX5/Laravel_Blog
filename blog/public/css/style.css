@@ -1,0 +1,9 @@
+/* start main rules */
+body{
+    background-color: #888;
+}
+
+.container{
+width: 1170px;
+margin: auto;
+}

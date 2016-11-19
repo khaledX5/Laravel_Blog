@@ -1,0 +1,17 @@
+body{
+    background:url('../images/SOCIAL_MEDIA_computer_internet_typography_text_poster_2516x1667.jpg');
+    padding:25px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
+.demo{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+    background-color:#efefef;
+}
+
+#equalheight {
+    overflow: hidden; 
+}
